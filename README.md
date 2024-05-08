@@ -22,6 +22,10 @@ You don't need to worry about installing dependencies locally when using Google 
 - pandas
 - scikit-learn
 
+## Contact Information
+
+If you have any questions or need further assistance, feel free to reach out to me via email at [sujahathmhmd@gmail.com](mailto:sujahathmhmd@gmail.com).
+
 ## Issues and Feedback
 
 If you encounter any issues or have any feedback regarding this project, please feel free to open an issue on GitHub or reach out to me directly.
